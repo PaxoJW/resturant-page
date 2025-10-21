@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 10vw 0 10vw;
+}
+
+header > nav {
+    margin: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+button {
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+}
+
+#content {
+    background-image: url("./images.jpeg");
+}
+
+#content h1{
+    font-size: 2rem;
+    margin: auto;
+    color: beige;
+}
+
